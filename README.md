@@ -7,6 +7,8 @@ This project is a simple ChatGPT-like application built with Streamlit and OpenA
 
 You can access [the deployed custom ChatGPT-like application here](https://arunn-chatgpt.streamlit.app/), using your own OpenAI API key.
 
+You might also like to read [the tutorial-style step-by-step guide](https://www.datagrads.com/how-i-built-my-own-chatgpt-plus/) I wrote, on how I built this custom ChatGPT Plus-like application.
+
 ## Features
 - Interactive chat interface powered by Streamlit.
 - Uses OpenAI's GPT-4o model for responses.
