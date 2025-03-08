@@ -3,7 +3,9 @@
 A custom ChatGPT-like web application using OpenAI API, Python, and Streamlit.
 
 ## Overview
-This project is a simple ChatGPT-like application built with Streamlit and OpenAI's API. It provides an interactive chat interface where users can enter prompts and receive AI-generated responses using the `gpt-4o` model.
+This project is a simple ChatGPT-like application built with Streamlit and OpenAI's API. It provides an interactive chat interface where users can enter prompts and receive AI-generated responses using the `gpt-4o` model. 
+
+You can access [the deployed custom ChatGPT-like application here](https://arunn-chatgpt.streamlit.app/), using your own OpenAI API key.
 
 ## Features
 - Interactive chat interface powered by Streamlit.
@@ -14,7 +16,7 @@ This project is a simple ChatGPT-like application built with Streamlit and OpenA
 ## Prerequisites
 To run this project, ensure you have:
 - Python 3.8 or higher installed
-- An OpenAI API key
+- An OpenAI API key (You can obtain an API key by signing up at [OpenAI's platform](https://platform.openai.com/login) and navigating to the API Keys section.)
 
 ## Installation
 Clone the repository and install the required dependencies:
